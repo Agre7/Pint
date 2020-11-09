@@ -1,0 +1,27 @@
+*~
+__pycache__
+*egg-info*
+*.pyc
+.DS_Store
+docs/_build/
+.idea
+build/
+dist/
+MANIFEST
+.tox
+*pytest_cache*
+
+# WebDAV file system cache files
+.DAV/
+
+# tags files (from ctags)
+tags
+
+test/
+.coverage*
+
+# notebook stuff
+*.ipynb_checkpoints*
+
+# test csv which should be user generated
+notebooks/pandas_test.csv
