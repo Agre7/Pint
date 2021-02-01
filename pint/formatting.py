@@ -1,4 +1,4 @@
-#ff -*- coding: utf-8 -*-
+#fff -*- coding: utf-8 -*-
 """
     pint.formatter
     ~~~~~~~~~~~~~~
